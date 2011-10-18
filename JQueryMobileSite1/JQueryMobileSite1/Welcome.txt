@@ -6,4 +6,4 @@ Some Notes:
 
 For more information about jQuery Mobile visit http://jquerymobile.com.
 
-This template was created with love, some unicorns and a touch of glitter by the Chicago based Software Developer / Amateur Philosopher Jacob Gable (jacob.gable[at]gmail.com).
+This template was created with love, some unicorns and a touch of glitter by the Chicago based Software Developer / Amateur Philosopher  Jacob Gable (jacob.gable[at]gmail.com).
