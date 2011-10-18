@@ -1,0 +1,5 @@
+G:\VS2005Proj\JQueryMobileSite1\JQueryMobileSite1\bin\JQueryMobileSite1.dll
+G:\VS2005Proj\JQueryMobileSite1\JQueryMobileSite1\bin\JQueryMobileSite1.pdb
+G:\VS2005Proj\JQueryMobileSite1\JQueryMobileSite1\obj\Debug\ResolveAssemblyReference.cache
+G:\VS2005Proj\JQueryMobileSite1\JQueryMobileSite1\obj\Debug\JQueryMobileSite1.dll
+G:\VS2005Proj\JQueryMobileSite1\JQueryMobileSite1\obj\Debug\JQueryMobileSite1.pdb
