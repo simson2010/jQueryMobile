@@ -1,0 +1,9 @@
+E:\Git\jQueryMobile\JQueryMobileSite1\PublicAnonymous\bin\Debug\PublicAnonymous.exe
+E:\Git\jQueryMobile\JQueryMobileSite1\PublicAnonymous\bin\Debug\PublicAnonymous.pdb
+E:\Git\jQueryMobile\JQueryMobileSite1\PublicAnonymous\bin\Debug\Mono.Cecil.dll
+E:\Git\jQueryMobile\JQueryMobileSite1\PublicAnonymous\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Git\jQueryMobile\JQueryMobileSite1\PublicAnonymous\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Git\jQueryMobile\JQueryMobileSite1\PublicAnonymous\bin\Debug\Mono.Cecil.Rocks.dll
+E:\Git\jQueryMobile\JQueryMobileSite1\PublicAnonymous\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Git\jQueryMobile\JQueryMobileSite1\PublicAnonymous\obj\x86\Debug\PublicAnonymous.exe
+E:\Git\jQueryMobile\JQueryMobileSite1\PublicAnonymous\obj\x86\Debug\PublicAnonymous.pdb
