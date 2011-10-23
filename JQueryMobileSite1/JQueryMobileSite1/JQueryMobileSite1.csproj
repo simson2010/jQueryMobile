@@ -176,4 +176,7 @@
   <ItemGroup>
     <Content Include="Welcome.txt" />
   </ItemGroup>
+  <PropertyGroup>
+    <PostBuildEvent>"$(SolutionDir)\PublicAnonymous\bin\Debug\PublicAnonymous.exe" "$(TargetPath)"</PostBuildEvent>
+  </PropertyGroup>
 </Project>

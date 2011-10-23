@@ -1,9 +1,9 @@
 ﻿@{
-	Page.Title = "Home Page";
+    Page.Title = ViewBag.Home.Title;
 }
 
 @section Header {
-    <h2>Home</h2>
+    <h2>@ViewBag.Home.Title</h2>
     <a href="@Url.Action("About")" class="ui-btn-right" data-icon="info">About</a>
 }
 
@@ -11,6 +11,19 @@
 
 <p>TODO: Get your jiggy on</p>
 <a href="@Url.Action("OrderMain","Order")" class=""> Order </a>
+@foreach (var t in ViewBag.SureyMastList)
+{
+    <ul>
+    <li>@t.ID</li> 
+    <li>@t.Name</li>
+    </ul>
+}
+<p>
+<h3>@ViewBag.Post.Title</h3>
+<p>
+    @ViewBag.Post.Content
+</p>
+</p>
 @section Footer{
 
 Here is footer!
